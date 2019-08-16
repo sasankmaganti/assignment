@@ -1,0 +1,12 @@
+__pycache__
+geckodriver.txt
+geckodriver.log
+scraper.log
+scraper_logs.log
+tests/__pycache__
+tests/system/__pycache__
+.pytest_cache
+.coverage
+pytests.xml
+htmlcov/
+coverage.xml
